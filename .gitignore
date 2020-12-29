@@ -24,6 +24,10 @@
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+<<<<<<< HEAD
+=======
+assets/apikey.json
+>>>>>>> 1a2cde1e6d1753b893ed07f322b9368f9af1deca
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
@@ -45,4 +49,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-apikey.json
+assets/apikey.json
