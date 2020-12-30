@@ -1,16 +1,27 @@
-# wallpaper_app
+# Wallpaper App in Flutter
 
-A new Flutter application.
 
-## Getting Started
+# Youtube Demo
 
-This project is a starting point for a Flutter application.
+[<img src="screenshots/youtube.jpg"/>](https://youtu.be/Uc1EngJJSkw)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Screen Shots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   <img src="/screenshots/ss1.jpg">
+   <img src="/screenshots/ss2.jpg"> 
+   <img src="/screenshots/ss3.jpg"> 
+
+# Created by
+
+
+[Ajaysinh Rathod](https://github.com/Ajaysinh1290)
+
+Email : ajaysinhrathod1290@gmail.com
+
+# Social Media Accounts
+[![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/ll_ajayrathod_ll/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Facebook](https://img.icons8.com/fluent/40/000000/facebook-new.png)](https://www.facebook.com/ajaysinh.rathod.7927)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[![Youtube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://www.youtube.com/channel/UCbhGYVadJsZtJzHYMWLNRRQ)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[![Twitter](https://img.icons8.com/fluent/40/000000/twitter.png)](https://twitter.com/Ajaysin34751867)
+
